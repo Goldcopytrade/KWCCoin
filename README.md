@@ -17,7 +17,7 @@ ARYCoin payment gateway. we built tokens on Binance smart chain as a highly secu
 # Payment gateway
 Earn passive income on your investments up to 100% APY. Make passive income. let your money work for you every day. Auto withdraw to wallet
 
-# Contact ariya ARY
+# Contact Kilowatt Coin
 
 
 📄 Whitepaper : 
