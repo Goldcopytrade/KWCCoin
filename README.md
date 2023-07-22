@@ -1,4 +1,4 @@
-# Kilowatt Coin : The token of Solar energy project project
+# Kilowatt Coin : The token of solar energy project project
 
 <div align="center"><img src="https://makecoin.live/wp-content/uploads/2023/06/logo300x300.fw_.png)" /><br />
 </div>
