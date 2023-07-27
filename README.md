@@ -14,7 +14,7 @@ We serve a marketplace platform that combines all types directly from the manufa
 # Payment gateway
 KWCCoin payment gateway. we built tokens on Binance smart chain as a highly secure blockchain payment gateway. It offers low fees and supports leading exchanges. can also be used to pay for goods discount 10% all transaction. marketing section is expanding as a payment gateway on coinpayment.net our growing partnerships in the future.
 
-# Payment gateway
+# Staking
 Earn passive income on your investments. Make passive income. let your money work for you every day. Auto withdraw to wallet
 
 # Contact Kilowatt Coin
