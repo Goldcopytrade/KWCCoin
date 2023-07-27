@@ -7,9 +7,9 @@
 </div>
 
 
-# Kilowatt Coin, The Token Of Green Energy Solar Cell
+# Marketplace Platform
 
-The entire ecosystem of KWCCoin consists of large-scale projects of solar energy. To expand clean energy systems around the world
+We serve a marketplace platform that combines all types directly from the manufacturer. and members on the platform accept payments through KWCCoin.
 
 # Payment gateway
 KWCCoin payment gateway. we built tokens on Binance smart chain as a highly secure blockchain payment gateway. It offers low fees and supports leading exchanges. can also be used to pay for goods discount 10% all transaction. marketing section is expanding as a payment gateway on coinpayment.net our growing partnerships in the future.
