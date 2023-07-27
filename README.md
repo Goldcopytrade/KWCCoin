@@ -7,15 +7,15 @@
 </div>
 
 
-# Environment ecosystem
+# Kilowatt Coin, The Token Of Green Energy Solar Cell
 
-Environment refers to the surroundings, whereas, ecosystem is the interaction between the environment and the living organisms. Environment is the area where living organisms live. Ecosystem is the community where the biotic and abiotic elements interact with each other.
-
-# Payment gateway
-ARYCoin payment gateway. we built tokens on Binance smart chain as a highly secure blockchain payment gateway. It offers low fees and supports leading exchanges. can also be used to pay for goods discount 10% all transaction. marketing section is expanding as a payment gateway on coinpayment.net our growing partnerships in the future.
+The entire ecosystem of KWCCoin consists of large-scale projects of solar energy. To expand clean energy systems around the world
 
 # Payment gateway
-Earn passive income on your investments up to 100% APY. Make passive income. let your money work for you every day. Auto withdraw to wallet
+KWCCoin payment gateway. we built tokens on Binance smart chain as a highly secure blockchain payment gateway. It offers low fees and supports leading exchanges. can also be used to pay for goods discount 10% all transaction. marketing section is expanding as a payment gateway on coinpayment.net our growing partnerships in the future.
+
+# Payment gateway
+Earn passive income on your investments. Make passive income. let your money work for you every day. Auto withdraw to wallet
 
 # Contact Kilowatt Coin
 
