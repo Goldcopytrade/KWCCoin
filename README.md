@@ -19,9 +19,6 @@ Earn passive income on your investments. Make passive income. let your money wor
 
 # Contact Kilowatt Coin
 
-
-📄 Whitepaper : 
-
 💎 Twitter : 
 
 🚀 Telegram Group : 
