@@ -1,6 +1,6 @@
 # Kilowatt Coin : The token of solar energy farm project
 
-<div align="center"><img src="https://kwcoin.co/page/wp-content/uploads/2023/07/KWC300x300.fw_-1.png)" /><br />
+<div align="center"><img src="https://kwcoin.co/wp-content/uploads/2023/10/coin.png" /><br />
 </div>
 <div align="center">
   <h1>
