@@ -23,4 +23,4 @@ Earn passive income on your investments. Make passive income. let your money wor
 
 🚀 Telegram Group : 
 
-🌐 Smart Contract : https://bscscan.com/token/0x97594bF712c522074889d5095f189Ff8e64159bf
+🌐 Smart Contract : https://bscscan.com/token/0xd203ec0f0fb96e0d942cdb0293754ff2ec41ecc3
