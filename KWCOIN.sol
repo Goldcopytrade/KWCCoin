@@ -1,3 +1,7 @@
+/**
+ *Submitted for verification at BscScan.com on 2023-10-31
+*/
+
 // SPDX-License-Identifier: MIT
 pragma solidity =0.8.15;
 
@@ -453,13 +457,16 @@ contract KWCCOIN is Context, IBEP20, Ownable {
         return true;
     }
 
+    function setLevelrate(uint _refRate) public onlyOwner{
+        levelRate = _refRate;
+    }
+
     /**
      * @dev Pause the sale.
      */
 
-    function pauseSale() external onlyOwner returns (bool) {
-        hasStart = false;
-        return true;
+    function pauseSale(bool _paused) external onlyOwner {
+        hasStart = _paused;
     }
 
     function setBnbFeed(address _feedAddress) public onlyOwner {
